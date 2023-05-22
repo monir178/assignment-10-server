@@ -1,51 +1,376 @@
 [
     {
-        "id": 1,
-        "name": "Introduction to Python",
-        "description": "This course provides an introduction to the Python programming language. You'll learn the basics of Python syntax, data types, control structures, functions, and modules. By the end of the course, you'll be able to write simple Python programs and have a solid foundation for further study in Python.",
-        "image": "https://example.com/python.jpg",
-        "rating": 4.5
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Introduction to Python Programming",
+        "author": {
+            "name": "John Smith",
+            "published_date": "2023-05-20 09:30:00",
+            "img": "https://example.com/authors/john_smith.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/python_intro.jpg",
+        "image_url": "https://example.com/images/python_intro.jpg",
+        "details": "Learning Python as a beginner allows you to grasp fundamental programming concepts such as variables, data types, loops, and functions. Python's syntax is straightforward and easy to understand, allowing you to focus more on problem-solving rather than getting caught up in complex syntax rules. With Python, you can start writing code quickly and see immediate results, which helps build confidence and motivation. The language provides a vast standard library and numerous third-party libraries, enabling you to leverage existing tools and resources for various tasks. Python's versatility and extensive community support make it an ideal choice for beginners. You'll find plenty of learning resources, tutorials, and online communities to assist you along your Python journey. Whether you aim to build small projects, automate repetitive tasks, or dive into advanced topics, Python offers a solid foundation for your programming skills."
     },
     {
-        "id": 2,
-        "name": "Web Development with React",
-        "description": "This course teaches you how to build modern web applications using React, a popular JavaScript library for building user interfaces. You'll learn the fundamentals of React, including component-based architecture, state management, and routing. You'll also learn how to use other popular tools and libraries, like Redux, React Router, and Axios.",
-        "image": "https://example.com/react.jpg",
-        "rating": 4.8
+        "_id": "1c7be2f19c1d4f70a96c8b4fb09c6a82",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "1",
+        "rating": {
+            "number": 4.2,
+            "badge": "Great"
+        },
+        "total_view": 723,
+        "title": "Python for Data Analysis",
+        "author": {
+            "name": "Emily Johnson",
+            "published_date": "2023-04-10 14:15:00",
+            "img": "https://example.com/authors/emily_johnson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/python_data_analysis.jpg",
+        "image_url": "https://example.com/images/python_data_analysis.jpg",
+        "details": "Python is widely recognized as a powerful language for data analysis. Its simplicity, extensive libraries, and robust ecosystem make it an ideal choice for working with and analyzing data. When it comes to data analysis in Python, two libraries stand out: NumPy and Pandas. NumPy provides a powerful array processing capability, allowing for efficient handling of large datasets and mathematical operations. It offers a wide range of functions for array manipulation, statistical analysis, linear algebra, and more. Pandas, on the other hand, builds upon NumPy and introduces a high-level data structure called a DataFrame. DataFrames provide an intuitive and flexible way to manipulate, transform, and analyze tabular data."
     },
     {
-        "id": 3,
-        "name": "Mobile App Development with Flutter",
-        "description": "In this course, you'll learn how to build beautiful and responsive mobile apps for iOS and Android using Flutter, a powerful open-source framework from Google. You'll learn how to create user interfaces with Flutter widgets, manage app state, handle user input, and access device APIs. You'll also learn how to use Firebase to build a backend for your app.",
-        "image": "https://example.com/flutter.jpg",
-        "rating": 4.7
+        "_id": "0282e0e58a5c404fio261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Introduction to Java Programming",
+        "author": {
+            "name": "John Smith",
+            "published_date": "2023-05-20 09:30:00",
+            "img": "https://example.com/authors/john_smith.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/java_intro.jpg",
+        "image_url": "https://example.com/images/java_intro.jpg",
+        "details": "Learning Java as a beginner allows you to understand the core concepts of object-oriented programming. Java's syntax is easy to read and write, making it an ideal language for beginners. With Java, you can learn about variables, data types, control structures, and object-oriented principles like classes, objects, and inheritance. Java's strong typing and robust ecosystem make it suitable for building enterprise-level applications. You can leverage Java's vast standard library and extensive community support to develop desktop applications, web applications, mobile apps, and more. Java's platform independence through the Java Virtual Machine (JVM) allows your programs to run on different operating systems. Java also offers frameworks like Spring and Hibernate, which simplify application development and database integration. Start your Java journey to unlock numerous career opportunities and expand your programming skills."
     },
     {
-        "id": 4,
-        "name": "Data Science with R",
-        "description": "This course provides an introduction to data analysis and statistical computing using R, a popular programming language for data science. You'll learn how to manipulate and visualize data, perform statistical tests and analyses, and create predictive models. You'll also learn how to use popular R packages, like ggplot2 and caret, to create high-quality data visualizations and predictive models.",
-        "image": "https://example.com/r.jpg",
-        "rating": 4.6
+        "_id": "1c7be2f19c1d4f70a96c8b456c6a82",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "2",
+        "rating": {
+            "number": 4.2,
+            "badge": "Great"
+        },
+        "total_view": 723,
+        "title": "Java for Data Structures and Algorithms",
+        "author": {
+            "name": "Emily Johnson",
+            "published_date": "2023-04-10 14:15:00",
+            "img": "https://example.com/authors/emily_johnson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/java_data_structures.jpg",
+        "image_url": "https://example.com/images/java_data_structures.jpg",
+        "details": "Java is a versatile language for implementing data structures and algorithms. With Java, you can learn how to design and implement essential data structures like linked lists, stacks, queues, trees, and graphs. Java's object-oriented nature allows you to build modular and reusable code, making it convenient for implementing complex data structures. Additionally, Java provides extensive support for algorithm design and analysis. You can learn and implement sorting algorithms, searching algorithms, dynamic programming, and other important algorithmic techniques in Java. Understanding data structures and algorithms in Java will enhance your problem-solving skills and prepare you for technical interviews and coding challenges. Start exploring Java's capabilities in data structures and algorithms to become a proficient programmer and handle complex programming tasks with ease."
     },
     {
-        "id": 5,
-        "name": "Machine Learning with Python",
-        "description": "In this course, you'll learn the fundamentals of machine learning and how to build predictive models using Python and popular libraries like scikit-learn and TensorFlow. You'll learn how to preprocess data, train models, evaluate model performance, and optimize models for better accuracy. You'll also learn about common machine learning algorithms like linear regression, decision trees, and neural networks.",
-        "image": "https://example.com/ml.jpg",
-        "rating": 4.9
+        "_id": "0282e338a5c404f43261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Introduction to PHP Programming",
+        "author": {
+            "name": "John Smith",
+            "published_date": "2023-05-20 09:30:00",
+            "img": "https://example.com/authors/john_smith.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/php_intro.jpg",
+        "image_url": "https://example.com/images/php_intro.jpg",
+        "details": "PHP is a widely-used scripting language specifically designed for web development. With PHP, you can create dynamic and interactive websites that interact with databases and handle user input. PHP's simplicity and extensive documentation make it an excellent choice for beginners. You'll learn essential concepts such as variables, data types, control structures, and functions. PHP integrates seamlessly with HTML, allowing you to embed PHP code within web pages. As you progress, you'll explore more advanced topics like working with databases using MySQL or other database systems, handling forms, processing user input, and implementing authentication and security measures. PHP has a large and active community, providing access to countless libraries, frameworks, and resources that make web development faster and more efficient. Start learning PHP to unlock the power of server-side scripting and build dynamic and interactive web applications."
     },
     {
-        "id": 6,
-        "name": "Blockchain Development",
-        "description": "This course teaches you how to build decentralized applications (dApps) using blockchain technology. You'll learn how to use smart contracts to build automated processes, create a decentralized application with the Ethereum platform, and program in the Solidity programming language. You'll also learn how to use IPFS for decentralized storage and DappHub for testing and deployment.",
-        "image": "https://example.com/blockchain.jpg",
-        "rating": 4.4
+        "_id": "1c7be2f19gf94657b09c6a82",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.2,
+            "badge": "Great"
+        },
+        "total_view": 723,
+        "title": "PHP Frameworks: Laravel and Symfony",
+        "author": {
+            "name": "Emily Johnson",
+            "published_date": "2023-04-10 14:15:00",
+            "img": "https://example.com/authors/emily_johnson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/php_frameworks.jpg",
+        "image_url": "https://example.com/images/php_frameworks.jpg",
+        "details": "PHP frameworks like Laravel and Symfony provide powerful tools and abstractions to streamline web development processes. Laravel is known for its elegant syntax and expressive coding style, making it a popular choice among PHP developers. It offers features like routing, database abstraction, caching, and session management out of the box, enabling rapid application development. Symfony, on the other hand, focuses on flexibility and scalability, providing a robust foundation for building complex web applications. It embraces reusable components and follows the best practices of object-oriented programming. Learning these frameworks will enhance your PHP development skills and enable you to create well-structured, maintainable, and efficient web applications. With a rich ecosystem of libraries and extensive documentation, Laravel and Symfony empower you to build dynamic websites, RESTful APIs, e-commerce platforms, and more. Start exploring PHP frameworks to elevate your web development capabilities and deliver high-quality, scalable web solutions."
     },
     {
-        "id": 7,
-        "name": "Full Stack Web Development",
-        "description": "In this course, you'll become a full stack web developer by learning front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js, Express,and MongoDB. You'll learn how to build web applications from scratch and deploy them to the cloud. You'll also learn how to use popular tools and libraries like React, Redux, and Mongoose to build scalable and maintainable web applications.",
-        "image": "https://example.com/fullstack.jpg",
-        "rating": 4.7
+        "_id": "0a0e7928a6e24d5dbb316f41c5a5df8c",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "JavaScript Basics",
+        "author": {
+            "name": "Michael Johnson",
+            "published_date": "2023-05-20 09:30:00",
+            "img": "https://example.com/authors/michael_johnson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/javascript_basics.jpg",
+        "image_url": "https://example.com/images/javascript_basics.jpg",
+        "details": "JavaScript is a versatile programming language that runs in the browser, allowing you to create interactive and dynamic web pages. It's the backbone of modern web development, enabling features like form validation, interactivity, and dynamic content updates. Learning JavaScript basics is essential for web developers. You'll start by understanding the fundamentals: variables, data types, operators, control structures, and functions. JavaScript's syntax is relatively easy to grasp, making it accessible to beginners. As you progress, you'll explore more advanced concepts like DOM manipulation, event handling, AJAX, and object-oriented programming with JavaScript. JavaScript also has a vast ecosystem of libraries and frameworks like React, Vue.js, and Node.js, which extend its capabilities and enable building full-stack applications. Mastering JavaScript empowers you to create powerful web experiences and opens doors to various career opportunities in web development."
+    },
+    {
+        "_id": "1c7be2f19c1d4f70a96c8b4fb09c6a82",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.2,
+            "badge": "Great"
+        },
+        "total_view": 723,
+        "title": "JavaScript Frameworks: React and Angular",
+        "author": {
+            "name": "Emily Wilson",
+            "published_date": "2023-04-10 14:15:00",
+            "img": "https://example.com/authors/emily_wilson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/javascript_frameworks.jpg",
+        "image_url": "https://example.com/images/javascript_frameworks.jpg",
+        "details": "JavaScript frameworks like React and Angular provide powerful tools and abstractions to build modern web applications. React, developed by Facebook, is known for its component-based architecture and virtual DOM, making it efficient and highly scalable. It allows you to create reusable UI components, enabling a more modular and maintainable codebase. Angular, on the other hand, is a full-featured framework backed by Google. It offers a comprehensive set of features, including two-way data binding, dependency injection, and a robust CLI. Both frameworks have vibrant communities and extensive documentation, making it easier to learn and find support. By learning React and Angular, you'll be equipped to build dynamic, responsive, and interactive web applications. Whether you're building single-page applications, progressive web apps, or mobile apps, these frameworks will streamline your development process and help you create modern, user-friendly interfaces."
+    },
+    {
+        "_id": "2f992e06b3e04184a6d7d5db3d9bb4d1",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 1024,
+        "title": "JavaScript ES6: Modern JavaScript Development",
+        "author": {
+            "name": "David Thompson",
+            "published_date": "2023-03-05 11:45:00",
+            "img": "https://example.com/authors/david_thompson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/javascript_es6.jpg",
+        "image_url": "https://example.com/images/javascript_es6.jpg",
+        "details": "ECMAScript 6 (ES6), also known as ECMAScript 2015, introduced significant enhancements to the JavaScript language, enabling more efficient and expressive coding. Learning ES6 is essential for modern JavaScript development. It introduces features like arrow functions, classes, modules, template literals, destructuring, and much more. These additions simplify and streamline common programming tasks, making your code more readable and maintainable. ES6 also provides syntactic sugar for working with asynchronous operations through Promises and the async/await syntax. By mastering ES6, you'll be able to write cleaner, more concise code and take advantage of the latest JavaScript features. ES6 is widely supported in modern browsers and forms the foundation for subsequent ECMAScript versions. Learning ES6 is a stepping stone to staying up-to-date with JavaScript's evolving ecosystem and ensuring you're equipped with the latest tools and techniques."
+    },
+    {
+        "_id": "38d894f2a6e845d3b21d6b53a27b11f9",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 2056,
+        "title": "JavaScript for Front-End Development",
+        "author": {
+            "name": "Sophia Ramirez",
+            "published_date": "2023-02-15 17:30:00",
+            "img": "https://example.com/authors/sophia_ramirez.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/javascript_frontend.jpg",
+        "image_url": "https://example.com/images/javascript_frontend.jpg",
+        "details": "JavaScript is a key technology for front-end development, enabling you to create interactive and engaging user interfaces. As a front-end developer, you'll use JavaScript to manipulate the Document Object Model (DOM), handle user interactions, and fetch data from APIs. Learning JavaScript for front-end development involves understanding how to leverage the DOM to manipulate web page elements, create event listeners, and dynamically update content. You'll also work with popular front-end frameworks and libraries like jQuery, Vue.js, or React, which simplify common tasks and provide additional features. Additionally, you'll learn how to use JavaScript to make asynchronous requests to servers and handle data responses effectively. Mastering JavaScript for front-end development empowers you to create visually appealing and responsive websites, optimize user experiences, and collaborate effectively with back-end developers to build robust web applications."
+    },
+    {
+        "_id": "9fe527f4018243bcad9a98a81a7fb18a",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 1325,
+        "title": "HTML5 Fundamentals",
+        "author": {
+            "name": "Jessica Lee",
+            "published_date": "2023-06-10 09:30:00",
+            "img": "https://example.com/authors/jessica_lee.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/html5_fundamentals.jpg",
+        "image_url": "https://example.com/images/html5_fundamentals.jpg",
+        "details": "HTML5 is the latest version of the Hypertext Markup Language, and it serves as the foundation of web development. As a web developer, learning HTML5 fundamentals is crucial. HTML5 introduces new semantic elements, audio and video integration, canvas for drawing graphics, and improved form input types. With HTML5, you'll learn how to structure web pages using the correct semantic elements, create interactive content, and optimize your site for search engines and accessibility. Understanding HTML5 is essential for building well-structured and modern websites. By mastering HTML5 fundamentals, you'll have a solid understanding of the building blocks of the web and be ready to enhance your websites with CSS and JavaScript."
+    },
+    {
+        "_id": "68d27b2fc0df4b6287fc120f675b7b32",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.6,
+            "badge": "Great"
+        },
+        "total_view": 987,
+        "title": "CSS3 Styling Techniques",
+        "author": {
+            "name": "Andrew Thompson",
+            "published_date": "2023-05-20 14:15:00",
+            "img": "https://example.com/authors/andrew_thompson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/css3_styling.jpg",
+        "image_url": "https://example.com/images/css3_styling.jpg",
+        "details": "CSS3 is the latest version of Cascading Style Sheets and is crucial for designing visually appealing and responsive websites. By learning CSS3 styling techniques, you'll gain the skills to control the layout, typography, colors, and animations of web pages. CSS3 introduces new features like flexbox and grid layouts, media queries for responsive design, custom fonts, transitions, and transforms. With CSS3, you can create beautiful and dynamic user interfaces, improve the user experience, and make your websites stand out. Understanding CSS3 is essential for front-end web developers, as it complements HTML and JavaScript to create visually engaging websites and web applications."
+    },
+    {
+        "_id": "5c6e8af1d5b84c54b08bb0df6d0d3e9b",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 2056,
+        "title": "JavaScript Fundamentals",
+        "author": {
+            "name": "Benjamin Davis",
+            "published_date": "2023-04-15 17:30:00",
+            "img": "https://example.com/authors/benjamin_davis.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/javascript_fundamentals.jpg",
+        "image_url": "https://example.com/images/javascript_fundamentals.jpg",
+        "details": "JavaScript is a powerful programming language used for building interactive and dynamic web applications. Learning JavaScript fundamentals is essential for web development. With JavaScript, you can add interactivity, handle user events, manipulate the DOM, and communicate with servers using AJAX requests. JavaScript also allows you to work with APIs, create animations, and implement client-side form validation. By mastering JavaScript fundamentals, you'll have the skills to create engaging user experiences and build responsive web applications. JavaScript is widely supported by modern browsers and forms the backbone of many popular frameworks and libraries used in web development, making it a must-learn language for aspiring web developers."
+    },
+    {
+        "_id": "3c7f87be0b264621a1b6f430144b8137",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 865,
+        "title": "C++ Basics: From Beginner to Intermediate",
+        "author": {
+            "name": "Michael Johnson",
+            "published_date": "2023-07-10 09:30:00",
+            "img": "https://example.com/authors/michael_johnson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/cpp_basics.jpg",
+        "image_url": "https://example.com/images/cpp_basics.jpg",
+        "details": "C++ is a powerful programming language widely used for developing high-performance applications. Learning C++ basics is essential for building a strong foundation in programming. With C++, you'll learn about variables, data types, control structures, functions, and object-oriented programming principles. C++ provides features like classes, inheritance, polymorphism, and templates, enabling you to write efficient and modular code. By mastering C++ basics, you'll be able to create robust and scalable applications, understand memory management, and leverage the extensive C++ libraries and frameworks available. C++ is widely used in areas such as game development, embedded systems, and performance-critical applications."
+    },
+    {
+        "_id": "1d96a63f29234a3db9508cb3efb4fcd6",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Great"
+        },
+        "total_view": 721,
+        "title": "Advanced C++ Programming Techniques",
+        "author": {
+            "name": "Sarah Thompson",
+            "published_date": "2023-06-20 14:15:00",
+            "img": "https://example.com/authors/sarah_thompson.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/cpp_advanced.jpg",
+        "image_url": "https://example.com/images/cpp_advanced.jpg",
+        "details": "Once you have a strong grasp of C++ basics, diving into advanced programming techniques will take your skills to the next level. In this course, you'll learn about advanced topics in C++ programming, including templates, smart pointers, operator overloading, exception handling, and multithreading. Understanding these advanced techniques will allow you to write more efficient and maintainable code, handle errors gracefully, and take advantage of parallel processing. Additionally, you'll explore topics such as lambda expressions, move semantics, and the standard template library (STL), which provides a collection of powerful algorithms and data structures. By mastering advanced C++ programming techniques, you'll be equipped to tackle complex projects and create high-performance applications."
+    },
+    {
+        "_id": "d4b038cf4b5348e1b1532e8d8f532e55",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "07",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 1285,
+        "title": "Introduction to Artificial Intelligence",
+        "author": {
+            "name": "Alexandra Williams",
+            "published_date": "2023-09-05 09:30:00",
+            "img": "https://example.com/authors/alexandra_williams.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/ai_intro.jpg",
+        "image_url": "https://example.com/images/ai_intro.jpg",
+        "details": "Artificial Intelligence (AI) is a rapidly growing field that focuses on creating intelligent machines capable of mimicking human cognitive abilities. This introductory course provides an overview of AI concepts and techniques. You'll learn about machine learning, neural networks, natural language processing, and computer vision. Understanding AI fundamentals will enable you to explore various applications such as virtual assistants, recommendation systems, and autonomous vehicles. Additionally, you'll gain insights into ethical considerations and the societal impact of AI. By diving into the world of AI, you'll discover the potential of this transformative technology and its wide-ranging applications in different industries."
+    },
+    {
+        "_id": "3a7f572c7baf4c5db6323b56db0b6b49",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "07",
+        "rating": {
+            "number": 4.6,
+            "badge": "Great"
+        },
+        "total_view": 956,
+        "title": "Advanced AI Algorithms and Applications",
+        "author": {
+            "name": "Daniel Lee",
+            "published_date": "2023-08-15 14:15:00",
+            "img": "https://example.com/authors/daniel_lee.jpg"
+        },
+        "thumbnail_url": "https://example.com/thumbnails/ai_advanced.jpg",
+        "image_url": "https://example.com/images/ai_advanced.jpg",
+        "details": "Building upon the foundational knowledge of AI, this course delves into advanced algorithms and applications. You'll explore cutting-edge AI techniques such as deep learning, reinforcement learning, and generative adversarial networks (GANs). Understanding these advanced algorithms will empower you to solve complex problems, train models on large datasets, and develop AI-driven applications. Moreover, you'll delve into real-world use cases, including autonomous robotics, image synthesis, and natural language understanding. By mastering advanced AI algorithms and their practical applications, you'll be at the forefront of AI innovation and well-equipped to contribute to the development of intelligent systems."
     }
 ]
