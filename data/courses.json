@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Python",
+        "description": "This course provides an introduction to the Python programming language. You'll learn the basics of Python syntax, data types, control structures, functions, and modules. By the end of the course, you'll be able to write simple Python programs and have a solid foundation for further study in Python.",
+        "image": "https://example.com/python.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Web Development with React",
+        "description": "This course teaches you how to build modern web applications using React, a popular JavaScript library for building user interfaces. You'll learn the fundamentals of React, including component-based architecture, state management, and routing. You'll also learn how to use other popular tools and libraries, like Redux, React Router, and Axios.",
+        "image": "https://example.com/react.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Mobile App Development with Flutter",
+        "description": "In this course, you'll learn how to build beautiful and responsive mobile apps for iOS and Android using Flutter, a powerful open-source framework from Google. You'll learn how to create user interfaces with Flutter widgets, manage app state, handle user input, and access device APIs. You'll also learn how to use Firebase to build a backend for your app.",
+        "image": "https://example.com/flutter.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "name": "Data Science with R",
+        "description": "This course provides an introduction to data analysis and statistical computing using R, a popular programming language for data science. You'll learn how to manipulate and visualize data, perform statistical tests and analyses, and create predictive models. You'll also learn how to use popular R packages, like ggplot2 and caret, to create high-quality data visualizations and predictive models.",
+        "image": "https://example.com/r.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Machine Learning with Python",
+        "description": "In this course, you'll learn the fundamentals of machine learning and how to build predictive models using Python and popular libraries like scikit-learn and TensorFlow. You'll learn how to preprocess data, train models, evaluate model performance, and optimize models for better accuracy. You'll also learn about common machine learning algorithms like linear regression, decision trees, and neural networks.",
+        "image": "https://example.com/ml.jpg",
+        "rating": 4.9
+    },
+    {
+        "id": 6,
+        "name": "Blockchain Development",
+        "description": "This course teaches you how to build decentralized applications (dApps) using blockchain technology. You'll learn how to use smart contracts to build automated processes, create a decentralized application with the Ethereum platform, and program in the Solidity programming language. You'll also learn how to use IPFS for decentralized storage and DappHub for testing and deployment.",
+        "image": "https://example.com/blockchain.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": 7,
+        "name": "Full Stack Web Development",
+        "description": "In this course, you'll become a full stack web developer by learning front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js, Express,and MongoDB. You'll learn how to build web applications from scratch and deploy them to the cloud. You'll also learn how to use popular tools and libraries like React, Redux, and Mongoose to build scalable and maintainable web applications.",
+        "image": "https://example.com/fullstack.jpg",
+        "rating": 4.7
+    }
+]
