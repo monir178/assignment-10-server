@@ -15,7 +15,7 @@
         "author": {
             "name": "John Smith",
             "published_date": "2023-05-20 09:30:00",
-            "img": "https://example.com/authors/john_smith.jpg"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPu01L1lpUuBAfuZ4bmOo1icds0WdQNsHgnj1WF8xalyOFeUKW7DV7FgpIV7t9oTwy8M&usqp=CAU"
         },
         "thumbnail_url": "https://example.com/thumbnails/python_intro.jpg",
         "image_url": "https://example.com/images/python_intro.jpg",
@@ -37,7 +37,7 @@
         "author": {
             "name": "Emily Johnson",
             "published_date": "2023-04-10 14:15:00",
-            "img": "https://example.com/authors/emily_johnson.jpg"
+            "img": "https://5.imimg.com/data5/QN/PI/CR/SELLER-25314234/python-for-data-analysis-course-500x500.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/python_data_analysis.jpg",
         "image_url": "https://example.com/images/python_data_analysis.jpg",
@@ -59,7 +59,7 @@
         "author": {
             "name": "John Smith",
             "published_date": "2023-05-20 09:30:00",
-            "img": "https://example.com/authors/john_smith.jpg"
+            "img": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg"
         },
         "thumbnail_url": "https://example.com/thumbnails/java_intro.jpg",
         "image_url": "https://example.com/images/java_intro.jpg",
@@ -81,7 +81,7 @@
         "author": {
             "name": "Emily Johnson",
             "published_date": "2023-04-10 14:15:00",
-            "img": "https://example.com/authors/emily_johnson.jpg"
+            "img": "https://image.slidesharecdn.com/datastructureinjava-230115144433-ecc81929/85/data-structure-in-javapptx-1-320.jpg?cb=1673794348"
         },
         "thumbnail_url": "https://example.com/thumbnails/java_data_structures.jpg",
         "image_url": "https://example.com/images/java_data_structures.jpg",
@@ -103,7 +103,7 @@
         "author": {
             "name": "John Smith",
             "published_date": "2023-05-20 09:30:00",
-            "img": "https://example.com/authors/john_smith.jpg"
+            "img": "https://contentstatic.techgig.com/photo/77717392/heres-why-php-is-still-popular-in-2020.jpg?333292"
         },
         "thumbnail_url": "https://example.com/thumbnails/php_intro.jpg",
         "image_url": "https://example.com/images/php_intro.jpg",
@@ -125,7 +125,7 @@
         "author": {
             "name": "Emily Johnson",
             "published_date": "2023-04-10 14:15:00",
-            "img": "https://example.com/authors/emily_johnson.jpg"
+            "img": "https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2022/12/FA-Laravel-Symfony-1.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/php_frameworks.jpg",
         "image_url": "https://example.com/images/php_frameworks.jpg",
@@ -147,7 +147,7 @@
         "author": {
             "name": "Michael Johnson",
             "published_date": "2023-05-20 09:30:00",
-            "img": "https://example.com/authors/michael_johnson.jpg"
+            "img": "https://img-b.udemycdn.com/course/750x422/4717952_30d2_3.jpg"
         },
         "thumbnail_url": "https://example.com/thumbnails/javascript_basics.jpg",
         "image_url": "https://example.com/images/javascript_basics.jpg",
@@ -169,7 +169,7 @@
         "author": {
             "name": "Emily Wilson",
             "published_date": "2023-04-10 14:15:00",
-            "img": "https://example.com/authors/emily_wilson.jpg"
+            "img": "https://www.mindinventory.com/blog/wp-content/uploads/2022/10/angular-to-react1200.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/javascript_frameworks.jpg",
         "image_url": "https://example.com/images/javascript_frameworks.jpg",
@@ -191,7 +191,7 @@
         "author": {
             "name": "David Thompson",
             "published_date": "2023-03-05 11:45:00",
-            "img": "https://example.com/authors/david_thompson.jpg"
+            "img": "https://es6.io/images/ES61.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/javascript_es6.jpg",
         "image_url": "https://example.com/images/javascript_es6.jpg",
@@ -213,7 +213,7 @@
         "author": {
             "name": "Sophia Ramirez",
             "published_date": "2023-02-15 17:30:00",
-            "img": "https://example.com/authors/sophia_ramirez.jpg"
+            "img": "https://answerjavascript.com/wp-content/uploads/2022/11/How-Much-Javascript-Needed-For-Front-End-Development.jpeg"
         },
         "thumbnail_url": "https://example.com/thumbnails/javascript_frontend.jpg",
         "image_url": "https://example.com/images/javascript_frontend.jpg",
@@ -235,7 +235,7 @@
         "author": {
             "name": "Jessica Lee",
             "published_date": "2023-06-10 09:30:00",
-            "img": "https://example.com/authors/jessica_lee.jpg"
+            "img": "https://i.ytimg.com/vi/Lg0MOyl2Plk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGBMgYCh_MA8=&rs=AOn4CLAnXeWsMXrnUTe8QyQ5YVsu7hHqZQ"
         },
         "thumbnail_url": "https://example.com/thumbnails/html5_fundamentals.jpg",
         "image_url": "https://example.com/images/html5_fundamentals.jpg",
@@ -257,7 +257,7 @@
         "author": {
             "name": "Andrew Thompson",
             "published_date": "2023-05-20 14:15:00",
-            "img": "https://example.com/authors/andrew_thompson.jpg"
+            "img": "https://gbcdn.mrgcdn.ru/uploads/geekbrains/public/ckeditor_assets/pictures/8975/retina-5df8bc110901350173f8be719ce2ea1d.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/css3_styling.jpg",
         "image_url": "https://example.com/images/css3_styling.jpg",
@@ -279,7 +279,7 @@
         "author": {
             "name": "Benjamin Davis",
             "published_date": "2023-04-15 17:30:00",
-            "img": "https://example.com/authors/benjamin_davis.jpg"
+            "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230209193400/Top-10-JavaScript-Fundamentals-That-Every-Developer-Should-Know.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/javascript_fundamentals.jpg",
         "image_url": "https://example.com/images/javascript_fundamentals.jpg",
@@ -301,7 +301,7 @@
         "author": {
             "name": "Michael Johnson",
             "published_date": "2023-07-10 09:30:00",
-            "img": "https://example.com/authors/michael_johnson.jpg"
+            "img": "https://www.educative.io/v2api/editorpage/4872441600933888/image/5292920040062976"
         },
         "thumbnail_url": "https://example.com/thumbnails/cpp_basics.jpg",
         "image_url": "https://example.com/images/cpp_basics.jpg",
@@ -323,7 +323,7 @@
         "author": {
             "name": "Sarah Thompson",
             "published_date": "2023-06-20 14:15:00",
-            "img": "https://example.com/authors/sarah_thompson.jpg"
+            "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230221104712/Top-50-C-Project-Ideas-For-Beginners-Advanced.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/cpp_advanced.jpg",
         "image_url": "https://example.com/images/cpp_advanced.jpg",
@@ -345,7 +345,7 @@
         "author": {
             "name": "Alexandra Williams",
             "published_date": "2023-09-05 09:30:00",
-            "img": "https://example.com/authors/alexandra_williams.jpg"
+            "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-to-Artificial-Intelligence.png"
         },
         "thumbnail_url": "https://example.com/thumbnails/ai_intro.jpg",
         "image_url": "https://example.com/images/ai_intro.jpg",
@@ -367,7 +367,7 @@
         "author": {
             "name": "Daniel Lee",
             "published_date": "2023-08-15 14:15:00",
-            "img": "https://example.com/authors/daniel_lee.jpg"
+            "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/artificial-intelligence-algorithms-min.jpg"
         },
         "thumbnail_url": "https://example.com/thumbnails/ai_advanced.jpg",
         "image_url": "https://example.com/images/ai_advanced.jpg",
