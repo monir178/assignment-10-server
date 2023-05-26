@@ -10,7 +10,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_view": 488,
+        "enrolled": 488,
         "title": "Introduction to Python Programming",
         "author": {
             "name": "John Smith",
@@ -27,12 +27,12 @@
             "is_todays_pick": true,
             "is_trending": false
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.2,
             "badge": "Great"
         },
-        "total_view": 723,
+        "enrolled": 723,
         "title": "Python for Data Analysis",
         "author": {
             "name": "Emily Johnson",
@@ -54,7 +54,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_view": 488,
+        "enrolled": 488,
         "title": "Introduction to Java Programming",
         "author": {
             "name": "John Smith",
@@ -71,12 +71,12 @@
             "is_todays_pick": true,
             "is_trending": false
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.2,
             "badge": "Great"
         },
-        "total_view": 723,
+        "enrolled": 723,
         "title": "Java for Data Structures and Algorithms",
         "author": {
             "name": "Emily Johnson",
@@ -98,7 +98,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_view": 488,
+        "enrolled": 488,
         "title": "Introduction to PHP Programming",
         "author": {
             "name": "John Smith",
@@ -120,7 +120,7 @@
             "number": 4.2,
             "badge": "Great"
         },
-        "total_view": 723,
+        "enrolled": 723,
         "title": "PHP Frameworks: Laravel and Symfony",
         "author": {
             "name": "Emily Johnson",
@@ -142,7 +142,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
-        "total_view": 488,
+        "enrolled": 488,
         "title": "JavaScript Basics",
         "author": {
             "name": "Michael Johnson",
@@ -164,7 +164,7 @@
             "number": 4.2,
             "badge": "Great"
         },
-        "total_view": 723,
+        "enrolled": 723,
         "title": "JavaScript Frameworks: React and Angular",
         "author": {
             "name": "Emily Wilson",
@@ -186,7 +186,7 @@
             "number": 4.7,
             "badge": "Excellent"
         },
-        "total_view": 1024,
+        "enrolled": 1024,
         "title": "JavaScript ES6: Modern JavaScript Development",
         "author": {
             "name": "David Thompson",
@@ -208,7 +208,7 @@
             "number": 4.9,
             "badge": "Excellent"
         },
-        "total_view": 2056,
+        "enrolled": 2056,
         "title": "JavaScript for Front-End Development",
         "author": {
             "name": "Sophia Ramirez",
@@ -230,7 +230,7 @@
             "number": 4.8,
             "badge": "Excellent"
         },
-        "total_view": 1325,
+        "enrolled": 1325,
         "title": "HTML5 Fundamentals",
         "author": {
             "name": "Jessica Lee",
@@ -252,7 +252,7 @@
             "number": 4.6,
             "badge": "Great"
         },
-        "total_view": 987,
+        "enrolled": 987,
         "title": "CSS3 Styling Techniques",
         "author": {
             "name": "Andrew Thompson",
@@ -274,7 +274,7 @@
             "number": 4.9,
             "badge": "Excellent"
         },
-        "total_view": 2056,
+        "enrolled": 2056,
         "title": "JavaScript Fundamentals",
         "author": {
             "name": "Benjamin Davis",
@@ -296,7 +296,7 @@
             "number": 4.7,
             "badge": "Excellent"
         },
-        "total_view": 865,
+        "enrolled": 865,
         "title": "C++ Basics: From Beginner to Intermediate",
         "author": {
             "name": "Michael Johnson",
@@ -318,7 +318,7 @@
             "number": 4.5,
             "badge": "Great"
         },
-        "total_view": 721,
+        "enrolled": 721,
         "title": "Advanced C++ Programming Techniques",
         "author": {
             "name": "Sarah Thompson",
@@ -340,7 +340,7 @@
             "number": 4.8,
             "badge": "Excellent"
         },
-        "total_view": 1285,
+        "enrolled": 1285,
         "title": "Introduction to Artificial Intelligence",
         "author": {
             "name": "Alexandra Williams",
@@ -362,7 +362,7 @@
             "number": 4.6,
             "badge": "Great"
         },
-        "total_view": 956,
+        "enrolled": 956,
         "title": "Advanced AI Algorithms and Applications",
         "author": {
             "name": "Daniel Lee",

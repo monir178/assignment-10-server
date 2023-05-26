@@ -28,9 +28,17 @@ app.get('/categories/:id', (req, res) => {
     }
 })
 
+app.get('/courses', (req, res) => {
+    res.send(allCourses);
+})
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = allCourses.find(c => c._id === id);
+    res.send(selectedCourse);
+})
 
 
 
 app.listen(Port, () => {
-    console.log("Tech Learn Server Runnig on PORT", Port);
+    console.log("Tech Learn Server Running on PORT", Port);
 })
