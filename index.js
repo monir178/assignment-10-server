@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     res.send('Tech API Running');
 })
 
-app.get('/course-categories', (req, res) => {
+app.get('/categories', (req, res) => {
     res.send(categories);
 })
 
